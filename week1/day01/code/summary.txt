@@ -1,0 +1,7 @@
+Python Programming — Summary
+==============================
+Search results for 'Python programming language':
+Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It is known for its simple, readable syntax and is widely used in web development, data science, artificial intelligence, and automation.
+
+Key uses: web development, data science, AI, automation.
+Why popular: simple syntax, large community, many libraries.
